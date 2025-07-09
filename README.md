@@ -1,6 +1,3 @@
-Here is a polished and professional `README.md` for your Kademlia-style DHT peer-to-peer application, with full GitHub-friendly formatting:
-
----
 
 ````markdown
 # 🕸️ Kademlia-Style Distributed Hash Table (DHT) Peer
