@@ -1,4 +1,4 @@
-# Note: created as part of Computer Networks course under Alexandra L'Heureux
+# Note: created as part of Computer Networks course under Alexandra L'Heureux UWO
 
 ````markdown
 # 🕸️ Kademlia-Style Distributed Hash Table (DHT) Peer
